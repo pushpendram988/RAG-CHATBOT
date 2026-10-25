@@ -8,6 +8,7 @@ Orchestrates:
 """
 
 import os
+import numpy as np
 import sys
 from config.config import config
 from src.rag_pipeline import RAGPipeline

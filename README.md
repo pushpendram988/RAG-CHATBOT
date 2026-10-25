@@ -1,4 +1,4 @@
-# Enterprise RAG (Retrieval-Augmented Generation) Pipeline
+## RAG Chatbot Project
 
 An industry-level, modular Python architecture for production Retrieval-Augmented Generation (RAG) applications using LangChain, ChromaDB, OpenAI, and Google Gemini.
 
