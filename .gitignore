@@ -1,0 +1,29 @@
+# Environment & Secrets
+.env
+*.env
+!.env.example
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Vector Store persistence data
+data/chroma_db/
+chroma_db/
+*.parquet
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
